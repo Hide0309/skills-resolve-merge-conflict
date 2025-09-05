@@ -1,3 +1,4 @@
-# References
 
-* octocat 1 😈
+Hello and goodbye
+
+Add conflicting references for testing merge conflict
